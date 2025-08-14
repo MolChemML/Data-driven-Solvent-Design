@@ -12,9 +12,11 @@ git clone https://github.com/yunsiechung/chemprop.git
 cd chemprop
 git checkout RxnSolvKSE_ML
 
-# Create the conda environment
-conda env create -f environment.yml
-conda activate chemprop
+# Create the conda environmen
+
+1. `conda env create -f environment.yml`
+2. `conda activate chemprop`
+
 Task 3: Spiekermann Model
 
 The Spiekermann Model for solvated barrier prediction requires a different version of the Chemprop library. The environment.yml for this task is provided within this repository.
