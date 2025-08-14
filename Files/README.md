@@ -23,7 +23,7 @@ To create and activate the correct environment for these tasks, please follow th
 The Spiekermann Model for solvated barrier prediction requires a different version of the Chemprop library. The environment.yml for this task is provided within this repository.
 
 To set up the environment for predicting with the Spiekermann Model, use the following commands:
-# Create the conda environment from the local environment.yml
+### Create the conda environment from the local environment.yml
 1. `conda env create -f environment.yml`
 2. `conda activate chemprop_spiekermann`
 
