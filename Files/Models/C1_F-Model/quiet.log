@@ -1,0 +1,791 @@
+Fold 0
+Model 0 best validation rmse = 1.669766 on epoch 2
+Model 0 test rmse = 0.984835
+Model 0 test mae = 0.597789
+Model 0 test r2 = 0.858104
+Model 1 best validation rmse = 1.708985 on epoch 8
+Model 1 test rmse = 0.847446
+Model 1 test mae = 0.499500
+Model 1 test r2 = 0.892716
+Model 2 best validation rmse = 1.560132 on epoch 4
+Model 2 test rmse = 0.899480
+Model 2 test mae = 0.538652
+Model 2 test r2 = 0.880243
+Model 3 best validation rmse = 1.668944 on epoch 2
+Model 3 test rmse = 1.019949
+Model 3 test mae = 0.623339
+Model 3 test r2 = 0.848548
+Model 4 best validation rmse = 1.587294 on epoch 1
+Model 4 test rmse = 1.082164
+Model 4 test mae = 0.674860
+Model 4 test r2 = 0.831581
+Model 5 best validation rmse = 1.626988 on epoch 4
+Model 5 test rmse = 0.891285
+Model 5 test mae = 0.496754
+Model 5 test r2 = 0.882156
+Model 6 best validation rmse = 1.603332 on epoch 6
+Model 6 test rmse = 0.831274
+Model 6 test mae = 0.464515
+Model 6 test r2 = 0.896247
+Model 7 best validation rmse = 1.613811 on epoch 2
+Model 7 test rmse = 1.059344
+Model 7 test mae = 0.667862
+Model 7 test r2 = 0.834408
+Model 8 best validation rmse = 1.591361 on epoch 2
+Model 8 test rmse = 0.969438
+Model 8 test mae = 0.582981
+Model 8 test r2 = 0.862815
+Model 9 best validation rmse = 1.467066 on epoch 4
+Model 9 test rmse = 0.884057
+Model 9 test mae = 0.526416
+Model 9 test r2 = 0.883460
+Model 10 best validation rmse = 1.526534 on epoch 3
+Model 10 test rmse = 0.938052
+Model 10 test mae = 0.550704
+Model 10 test r2 = 0.870781
+Model 11 best validation rmse = 1.608174 on epoch 1
+Model 11 test rmse = 1.089491
+Model 11 test mae = 0.674344
+Model 11 test r2 = 0.828971
+Model 12 best validation rmse = 1.679276 on epoch 9
+Model 12 test rmse = 0.795978
+Model 12 test mae = 0.451151
+Model 12 test r2 = 0.905133
+Model 13 best validation rmse = 1.630325 on epoch 2
+Model 13 test rmse = 0.980033
+Model 13 test mae = 0.581021
+Model 13 test r2 = 0.859865
+Model 14 best validation rmse = 1.556371 on epoch 4
+Model 14 test rmse = 0.883058
+Model 14 test mae = 0.497452
+Model 14 test r2 = 0.884323
+Model 15 best validation rmse = 1.696965 on epoch 9
+Model 15 test rmse = 0.801513
+Model 15 test mae = 0.433390
+Model 15 test r2 = 0.903727
+Model 16 best validation rmse = 1.583022 on epoch 3
+Model 16 test rmse = 0.938926
+Model 16 test mae = 0.557563
+Model 16 test r2 = 0.870188
+Model 17 best validation rmse = 1.555484 on epoch 3
+Model 17 test rmse = 0.984177
+Model 17 test mae = 0.617217
+Model 17 test r2 = 0.859406
+Model 18 best validation rmse = 1.771003 on epoch 3
+Model 18 test rmse = 0.908930
+Model 18 test mae = 0.524685
+Model 18 test r2 = 0.878311
+Model 19 best validation rmse = 1.535833 on epoch 3
+Model 19 test rmse = 0.907649
+Model 19 test mae = 0.521025
+Model 19 test r2 = 0.878698
+Model 20 best validation rmse = 1.578587 on epoch 4
+Model 20 test rmse = 0.877241
+Model 20 test mae = 0.498829
+Model 20 test r2 = 0.884889
+Model 21 best validation rmse = 1.544102 on epoch 3
+Model 21 test rmse = 0.934186
+Model 21 test mae = 0.578870
+Model 21 test r2 = 0.872437
+Model 22 best validation rmse = 1.631657 on epoch 6
+Model 22 test rmse = 0.822146
+Model 22 test mae = 0.461848
+Model 22 test r2 = 0.898924
+Model 23 best validation rmse = 1.675435 on epoch 4
+Model 23 test rmse = 0.868877
+Model 23 test mae = 0.502392
+Model 23 test r2 = 0.888129
+Model 24 best validation rmse = 1.563226 on epoch 8
+Model 24 test rmse = 0.806037
+Model 24 test mae = 0.445122
+Model 24 test r2 = 0.902500
+Ensemble test rmse = 0.850576
+Ensemble test mae = 0.459997
+Ensemble test r2 = 0.891310
+1-fold cross validation
+	Seed 123 ==> test rmse = 0.850576
+	Seed 123 ==> test mae = 0.459997
+	Seed 123 ==> test r2 = 0.891310
+Overall test rmse = 0.850576 +/- 0.000000
+Overall test mae = 0.459997 +/- 0.000000
+Overall test r2 = 0.891310 +/- 0.000000
+Elapsed time = 0:10:50
+Fold 0
+Model 0 best validation rmse = 1.669766 on epoch 2
+Model 0 test rmse = 0.984835
+Model 0 test mae = 0.597789
+Model 0 test r2 = 0.858104
+Model 1 best validation rmse = 1.708985 on epoch 8
+Model 1 test rmse = 0.847446
+Model 1 test mae = 0.499500
+Model 1 test r2 = 0.892716
+Model 2 best validation rmse = 1.560132 on epoch 4
+Model 2 test rmse = 0.899480
+Model 2 test mae = 0.538652
+Model 2 test r2 = 0.880243
+Model 3 best validation rmse = 1.668944 on epoch 2
+Model 3 test rmse = 1.019949
+Model 3 test mae = 0.623339
+Model 3 test r2 = 0.848548
+Model 4 best validation rmse = 1.587294 on epoch 1
+Model 4 test rmse = 1.082164
+Model 4 test mae = 0.674860
+Model 4 test r2 = 0.831581
+Model 5 best validation rmse = 1.626988 on epoch 4
+Model 5 test rmse = 0.891285
+Model 5 test mae = 0.496754
+Model 5 test r2 = 0.882156
+Model 6 best validation rmse = 1.603332 on epoch 6
+Model 6 test rmse = 0.831274
+Model 6 test mae = 0.464515
+Model 6 test r2 = 0.896247
+Model 7 best validation rmse = 1.613811 on epoch 2
+Model 7 test rmse = 1.059344
+Model 7 test mae = 0.667862
+Model 7 test r2 = 0.834408
+Model 8 best validation rmse = 1.591361 on epoch 2
+Model 8 test rmse = 0.969438
+Model 8 test mae = 0.582981
+Model 8 test r2 = 0.862815
+Model 9 best validation rmse = 1.467066 on epoch 4
+Model 9 test rmse = 0.884057
+Model 9 test mae = 0.526416
+Model 9 test r2 = 0.883460
+Model 10 best validation rmse = 1.526534 on epoch 3
+Model 10 test rmse = 0.938052
+Model 10 test mae = 0.550704
+Model 10 test r2 = 0.870781
+Model 11 best validation rmse = 1.608174 on epoch 1
+Model 11 test rmse = 1.089491
+Model 11 test mae = 0.674344
+Model 11 test r2 = 0.828971
+Model 12 best validation rmse = 1.679276 on epoch 9
+Model 12 test rmse = 0.795978
+Model 12 test mae = 0.451151
+Model 12 test r2 = 0.905133
+Model 13 best validation rmse = 1.630325 on epoch 2
+Model 13 test rmse = 0.980033
+Model 13 test mae = 0.581021
+Model 13 test r2 = 0.859865
+Model 14 best validation rmse = 1.556371 on epoch 4
+Model 14 test rmse = 0.883058
+Model 14 test mae = 0.497452
+Model 14 test r2 = 0.884323
+Model 15 best validation rmse = 1.696965 on epoch 9
+Model 15 test rmse = 0.801513
+Model 15 test mae = 0.433390
+Model 15 test r2 = 0.903727
+Model 16 best validation rmse = 1.583022 on epoch 3
+Model 16 test rmse = 0.938926
+Model 16 test mae = 0.557563
+Model 16 test r2 = 0.870188
+Model 17 best validation rmse = 1.555484 on epoch 3
+Model 17 test rmse = 0.984177
+Model 17 test mae = 0.617217
+Model 17 test r2 = 0.859406
+Model 18 best validation rmse = 1.771003 on epoch 3
+Model 18 test rmse = 0.908930
+Model 18 test mae = 0.524685
+Model 18 test r2 = 0.878311
+Model 19 best validation rmse = 1.535833 on epoch 3
+Model 19 test rmse = 0.907649
+Model 19 test mae = 0.521025
+Model 19 test r2 = 0.878698
+Model 20 best validation rmse = 1.578587 on epoch 4
+Model 20 test rmse = 0.877241
+Model 20 test mae = 0.498829
+Model 20 test r2 = 0.884889
+Model 21 best validation rmse = 1.544102 on epoch 3
+Model 21 test rmse = 0.934186
+Model 21 test mae = 0.578870
+Model 21 test r2 = 0.872437
+Model 22 best validation rmse = 1.631657 on epoch 6
+Model 22 test rmse = 0.822146
+Model 22 test mae = 0.461848
+Model 22 test r2 = 0.898924
+Model 23 best validation rmse = 1.675435 on epoch 4
+Model 23 test rmse = 0.868877
+Model 23 test mae = 0.502392
+Model 23 test r2 = 0.888129
+Model 24 best validation rmse = 1.563226 on epoch 8
+Model 24 test rmse = 0.806037
+Model 24 test mae = 0.445122
+Model 24 test r2 = 0.902500
+Ensemble test rmse = 0.850576
+Ensemble test mae = 0.459997
+Ensemble test r2 = 0.891310
+1-fold cross validation
+	Seed 123 ==> test rmse = 0.850576
+	Seed 123 ==> test mae = 0.459997
+	Seed 123 ==> test r2 = 0.891310
+Overall test rmse = 0.850576 +/- 0.000000
+Overall test mae = 0.459997 +/- 0.000000
+Overall test r2 = 0.891310 +/- 0.000000
+Elapsed time = 0:12:19
+Fold 0
+Model 0 best validation rmse = 2.176370 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 0 test rmse = 2.702875
+Model 0 test mae = 2.000112
+Model 0 test r2 = 0.002630
+Fold 0
+Fold 0
+Model 0 best validation rmse = 2.176370 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 0 test rmse = 2.702875
+Model 0 test mae = 2.000112
+Model 0 test r2 = 0.002630
+Model 1 best validation rmse = 2.375117 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 1 test rmse = 2.695279
+Model 1 test mae = 1.943982
+Model 1 test r2 = 0.003056
+Model 2 best validation rmse = 2.144763 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 2 test rmse = 2.713029
+Model 2 test mae = 2.047716
+Model 2 test r2 = -0.006917
+Model 3 best validation rmse = 2.184690 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 3 test rmse = 2.713182
+Model 3 test mae = 1.996391
+Model 3 test r2 = -0.003335
+Model 4 best validation rmse = 2.116403 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 4 test rmse = 2.720216
+Model 4 test mae = 1.945187
+Model 4 test r2 = -0.009229
+Model 5 best validation rmse = 2.451874 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 5 test rmse = 2.728920
+Model 5 test mae = 2.033223
+Model 5 test r2 = -0.015968
+Model 6 best validation rmse = 2.165470 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 6 test rmse = 2.746120
+Model 6 test mae = 2.171894
+Model 6 test r2 = -0.025927
+Model 7 best validation rmse = 2.181177 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 7 test rmse = 2.729663
+Model 7 test mae = 2.023362
+Model 7 test r2 = -0.020441
+Model 8 best validation rmse = 2.216961 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 8 test rmse = 2.708209
+Model 8 test mae = 2.053673
+Model 8 test r2 = -0.001308
+Model 9 best validation rmse = 2.188796 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 9 test rmse = 2.708338
+Model 9 test mae = 1.961768
+Model 9 test r2 = 0.001103
+Model 10 best validation rmse = 2.026983 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 10 test rmse = 2.729094
+Model 10 test mae = 1.961195
+Model 10 test r2 = -0.015965
+Model 11 best validation rmse = 2.240691 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 11 test rmse = 2.752505
+Model 11 test mae = 2.119823
+Model 11 test r2 = -0.029713
+Model 12 best validation rmse = 2.037063 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 12 test rmse = 2.712454
+Model 12 test mae = 1.981883
+Model 12 test r2 = -0.006358
+Model 13 best validation rmse = 2.324391 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 13 test rmse = 2.727596
+Model 13 test mae = 2.004104
+Model 13 test r2 = -0.015711
+Model 14 best validation rmse = 2.010902 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 14 test rmse = 2.741076
+Model 14 test mae = 2.071676
+Model 14 test r2 = -0.029513
+Model 15 best validation rmse = 2.336447 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 15 test rmse = 2.722356
+Model 15 test mae = 2.020546
+Model 15 test r2 = -0.011736
+Model 16 best validation rmse = 2.043256 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 16 test rmse = 2.751681
+Model 16 test mae = 2.057568
+Model 16 test r2 = -0.037509
+Model 17 best validation rmse = 1.997018 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 17 test rmse = 2.744551
+Model 17 test mae = 1.936243
+Model 17 test r2 = -0.032132
+Model 18 best validation rmse = 2.306212 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 18 test rmse = 2.733830
+Model 18 test mae = 1.987404
+Model 18 test r2 = -0.016191
+Model 19 best validation rmse = 1.976325 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 19 test rmse = 2.731866
+Model 19 test mae = 1.966070
+Model 19 test r2 = -0.022010
+Model 20 best validation rmse = 2.191636 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 20 test rmse = 2.729197
+Model 20 test mae = 2.071252
+Model 20 test r2 = -0.016107
+Model 21 best validation rmse = 2.270944 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 21 test rmse = 2.703148
+Model 21 test mae = 1.995960
+Model 21 test r2 = 0.000133
+Model 22 best validation rmse = 2.127487 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 22 test rmse = 2.746675
+Model 22 test mae = 2.106618
+Model 22 test r2 = -0.025121
+Model 23 best validation rmse = 2.142850 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 23 test rmse = 2.717669
+Model 23 test mae = 2.089615
+Model 23 test r2 = -0.007946
+Model 24 best validation rmse = 2.284885 on epoch 9
+Warning: Pretrained parameter "encoder.encoder.cached_zero_vector" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "encoder.encoder.W_i.weight" of shape torch.Size([300, 193]) does not match corresponding model parameter of shape torch.Size([700, 193]).
+Warning: Pretrained parameter "encoder.encoder.W_h.weight" of shape torch.Size([300, 300]) does not match corresponding model parameter of shape torch.Size([700, 700]).
+Warning: Pretrained parameter "encoder.encoder.W_o.weight" of shape torch.Size([300, 465]) does not match corresponding model parameter of shape torch.Size([700, 865]).
+Warning: Pretrained parameter "encoder.encoder.W_o.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([700]).
+Warning: Pretrained parameter "readout.1.weight" of shape torch.Size([300, 600]) does not match corresponding model parameter of shape torch.Size([600, 1000]).
+Warning: Pretrained parameter "readout.1.bias" of shape torch.Size([300]) does not match corresponding model parameter of shape torch.Size([600]).
+Warning: Pretrained parameter "readout.4.weight" of shape torch.Size([2, 300]) does not match corresponding model parameter of shape torch.Size([2, 600]).
+Model 24 test rmse = 2.693823
+Model 24 test mae = 2.032600
+Model 24 test r2 = 0.007976
+Ensemble test rmse = 2.637245
+Ensemble test mae = 1.949159
+Ensemble test r2 = 0.001798
+1-fold cross validation
+	Seed 123 ==> test rmse = 2.637245
+	Seed 123 ==> test mae = 1.949159
+	Seed 123 ==> test r2 = 0.001798
+Overall test rmse = 2.637245 +/- 0.000000
+Overall test mae = 1.949159 +/- 0.000000
+Overall test r2 = 0.001798 +/- 0.000000
+Elapsed time = 0:13:34
+Fold 0
+Fold 0
+Model 0 best validation rmse = 1.669766 on epoch 2
+Model 0 test rmse = 0.984835
+Model 0 test mae = 0.597789
+Model 0 test r2 = 0.858104
+Model 1 best validation rmse = 1.708985 on epoch 8
+Model 1 test rmse = 0.847446
+Model 1 test mae = 0.499500
+Model 1 test r2 = 0.892716
+Model 2 best validation rmse = 1.560132 on epoch 4
+Model 2 test rmse = 0.899480
+Model 2 test mae = 0.538652
+Model 2 test r2 = 0.880243
+Model 3 best validation rmse = 1.668944 on epoch 2
+Model 3 test rmse = 1.019949
+Model 3 test mae = 0.623339
+Model 3 test r2 = 0.848548
+Model 4 best validation rmse = 1.587294 on epoch 1
+Model 4 test rmse = 1.082164
+Model 4 test mae = 0.674860
+Model 4 test r2 = 0.831581
+Model 5 best validation rmse = 1.626988 on epoch 4
+Model 5 test rmse = 0.891285
+Model 5 test mae = 0.496754
+Model 5 test r2 = 0.882156
+Model 6 best validation rmse = 1.603332 on epoch 6
+Model 6 test rmse = 0.831274
+Model 6 test mae = 0.464515
+Model 6 test r2 = 0.896247
+Model 7 best validation rmse = 1.613811 on epoch 2
+Model 7 test rmse = 1.059344
+Model 7 test mae = 0.667862
+Model 7 test r2 = 0.834408
+Model 8 best validation rmse = 1.591361 on epoch 2
+Model 8 test rmse = 0.969438
+Model 8 test mae = 0.582981
+Model 8 test r2 = 0.862815
+Model 9 best validation rmse = 1.467066 on epoch 4
+Model 9 test rmse = 0.884057
+Model 9 test mae = 0.526416
+Model 9 test r2 = 0.883460
+Model 10 best validation rmse = 1.526534 on epoch 3
+Model 10 test rmse = 0.938052
+Model 10 test mae = 0.550704
+Model 10 test r2 = 0.870781
+Model 11 best validation rmse = 1.608174 on epoch 1
+Model 11 test rmse = 1.089491
+Model 11 test mae = 0.674344
+Model 11 test r2 = 0.828971
+Model 12 best validation rmse = 1.679276 on epoch 9
+Model 12 test rmse = 0.795978
+Model 12 test mae = 0.451151
+Model 12 test r2 = 0.905133
+Model 13 best validation rmse = 1.630325 on epoch 2
+Model 13 test rmse = 0.980033
+Model 13 test mae = 0.581021
+Model 13 test r2 = 0.859865
+Model 14 best validation rmse = 1.556371 on epoch 4
+Model 14 test rmse = 0.883058
+Model 14 test mae = 0.497452
+Model 14 test r2 = 0.884323
+Model 15 best validation rmse = 1.696965 on epoch 9
+Model 15 test rmse = 0.801513
+Model 15 test mae = 0.433390
+Model 15 test r2 = 0.903727
+Model 16 best validation rmse = 1.583022 on epoch 3
+Model 16 test rmse = 0.938926
+Model 16 test mae = 0.557563
+Model 16 test r2 = 0.870188
+Model 17 best validation rmse = 1.555484 on epoch 3
+Model 17 test rmse = 0.984177
+Model 17 test mae = 0.617217
+Model 17 test r2 = 0.859406
+Model 18 best validation rmse = 1.771003 on epoch 3
+Model 18 test rmse = 0.908930
+Model 18 test mae = 0.524685
+Model 18 test r2 = 0.878311
+Model 19 best validation rmse = 1.535833 on epoch 3
+Model 19 test rmse = 0.907649
+Model 19 test mae = 0.521025
+Model 19 test r2 = 0.878698
+Model 20 best validation rmse = 1.578587 on epoch 4
+Model 20 test rmse = 0.877241
+Model 20 test mae = 0.498829
+Model 20 test r2 = 0.884889
+Model 21 best validation rmse = 1.544102 on epoch 3
+Model 21 test rmse = 0.934186
+Model 21 test mae = 0.578870
+Model 21 test r2 = 0.872437
+Model 22 best validation rmse = 1.631657 on epoch 6
+Model 22 test rmse = 0.822146
+Model 22 test mae = 0.461848
+Model 22 test r2 = 0.898924
+Model 23 best validation rmse = 1.675435 on epoch 4
+Model 23 test rmse = 0.868877
+Model 23 test mae = 0.502392
+Model 23 test r2 = 0.888129
+Model 24 best validation rmse = 1.563226 on epoch 8
+Model 24 test rmse = 0.806037
+Model 24 test mae = 0.445122
+Model 24 test r2 = 0.902500
+Ensemble test rmse = 0.850576
+Ensemble test mae = 0.459997
+Ensemble test r2 = 0.891310
+1-fold cross validation
+	Seed 123 ==> test rmse = 0.850576
+	Seed 123 ==> test mae = 0.459997
+	Seed 123 ==> test r2 = 0.891310
+Overall test rmse = 0.850576 +/- 0.000000
+Overall test mae = 0.459997 +/- 0.000000
+Overall test r2 = 0.891310 +/- 0.000000
+Elapsed time = 0:13:39
+Fold 0
+Model 0 best validation rmse = 0.963520 on epoch 9
+Model 0 test rmse = 0.939418
+Model 0 test mae = 0.621701
+Model 0 test r2 = 0.711478
+Model 1 best validation rmse = 0.971942 on epoch 8
+Model 1 test rmse = 0.946305
+Model 1 test mae = 0.632114
+Model 1 test r2 = 0.707232
+Model 2 best validation rmse = 0.968125 on epoch 8
+Model 2 test rmse = 0.951280
+Model 2 test mae = 0.631202
+Model 2 test r2 = 0.704145
+Model 3 best validation rmse = 0.981450 on epoch 8
+Model 3 test rmse = 0.958667
+Model 3 test mae = 0.635680
+Model 3 test r2 = 0.699532
+Model 4 best validation rmse = 0.973809 on epoch 8
+Model 4 test rmse = 0.953131
+Model 4 test mae = 0.635000
+Model 4 test r2 = 0.702993
+Model 5 best validation rmse = 0.974788 on epoch 9
+Model 5 test rmse = 0.943332
+Model 5 test mae = 0.632732
+Model 5 test r2 = 0.709068
+Model 6 best validation rmse = 0.959090 on epoch 9
+Model 6 test rmse = 0.941091
+Model 6 test mae = 0.626384
+Model 6 test r2 = 0.710449
+Model 7 best validation rmse = 0.949114 on epoch 9
+Model 7 test rmse = 0.935039
+Model 7 test mae = 0.630216
+Model 7 test r2 = 0.714161
+Model 8 best validation rmse = 0.957997 on epoch 9
+Model 8 test rmse = 0.934626
+Model 8 test mae = 0.624119
+Model 8 test r2 = 0.714414
+Model 9 best validation rmse = 0.974087 on epoch 9
+Model 9 test rmse = 0.941201
+Model 9 test mae = 0.621595
+Model 9 test r2 = 0.710381
+Model 10 best validation rmse = 0.977910 on epoch 9
+Model 10 test rmse = 0.945335
+Model 10 test mae = 0.627515
+Model 10 test r2 = 0.707831
+Model 11 best validation rmse = 0.963758 on epoch 9
+Model 11 test rmse = 0.949923
+Model 11 test mae = 0.626904
+Model 11 test r2 = 0.704988
+Model 12 best validation rmse = 0.971603 on epoch 8
+Model 12 test rmse = 0.942697
+Model 12 test mae = 0.625153
+Model 12 test r2 = 0.709460
+Model 13 best validation rmse = 0.972954 on epoch 8
+Model 13 test rmse = 0.929251
+Model 13 test mae = 0.617629
+Model 13 test r2 = 0.717689
+Model 14 best validation rmse = 0.976897 on epoch 9
+Model 14 test rmse = 0.931541
+Model 14 test mae = 0.620858
+Model 14 test r2 = 0.716296
+Model 15 best validation rmse = 0.959996 on epoch 8
+Model 15 test rmse = 0.941975
+Model 15 test mae = 0.631169
+Model 15 test r2 = 0.709905
+Model 16 best validation rmse = 0.971428 on epoch 8
+Model 16 test rmse = 0.928770
+Model 16 test mae = 0.617700
+Model 16 test r2 = 0.717981
+Model 17 best validation rmse = 0.964752 on epoch 8
+Model 17 test rmse = 0.929138
+Model 17 test mae = 0.616290
+Model 17 test r2 = 0.717757
+Model 18 best validation rmse = 0.976045 on epoch 9
+Model 18 test rmse = 0.936576
+Model 18 test mae = 0.625306
+Model 18 test r2 = 0.713221
+Model 19 best validation rmse = 0.971629 on epoch 9
+Model 19 test rmse = 0.937531
+Model 19 test mae = 0.618536
+Model 19 test r2 = 0.712636
+Model 20 best validation rmse = 0.970747 on epoch 9
+Model 20 test rmse = 0.931968
+Model 20 test mae = 0.626826
+Model 20 test r2 = 0.716036
+Model 21 best validation rmse = 0.969556 on epoch 8
+Model 21 test rmse = 0.952691
+Model 21 test mae = 0.634857
+Model 21 test r2 = 0.703267
+Model 22 best validation rmse = 0.972531 on epoch 9
+Model 22 test rmse = 0.944356
+Model 22 test mae = 0.625912
+Model 22 test r2 = 0.708436
+Model 23 best validation rmse = 0.968518 on epoch 9
+Model 23 test rmse = 0.940708
+Model 23 test mae = 0.629627
+Model 23 test r2 = 0.710685
+Model 24 best validation rmse = 0.971033 on epoch 9
+Model 24 test rmse = 0.923676
+Model 24 test mae = 0.610414
+Model 24 test r2 = 0.721066
+Ensemble test rmse = 0.912145
+Ensemble test mae = 0.599301
+Ensemble test r2 = 0.727987
+1-fold cross validation
+	Seed 123 ==> test rmse = 0.912145
+	Seed 123 ==> test mae = 0.599301
+	Seed 123 ==> test r2 = 0.727987
+Overall test rmse = 0.912145 +/- 0.000000
+Overall test mae = 0.599301 +/- 0.000000
+Overall test r2 = 0.727987 +/- 0.000000
+Fold 0
+Model 0 best validation rmse = 1.024963 on epoch 9
+Model 0 test rmse = 0.972889
+Model 0 test mae = 0.642219
+Model 0 test r2 = 0.672663
+Model 1 best validation rmse = 1.038632 on epoch 8
+Model 1 test rmse = 0.954595
+Model 1 test mae = 0.632823
+Model 1 test r2 = 0.684857
+Model 2 best validation rmse = 1.041422 on epoch 7
+Model 2 test rmse = 0.976386
+Model 2 test mae = 0.637807
+Model 2 test r2 = 0.670305
+Model 3 best validation rmse = 1.040033 on epoch 8
+Model 3 test rmse = 0.970435
+Model 3 test mae = 0.650693
+Model 3 test r2 = 0.674312
