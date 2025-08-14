@@ -23,8 +23,6 @@ To create and activate the correct environment for these tasks, please follow th
 The Spiekermann Model for solvated barrier prediction requires a different version of the Chemprop library. The environment.yml for this task is provided within this repository.
 
 To set up the environment for predicting with the Spiekermann Model, use the following commands:
-
-# Assuming you are in the root of this project directory
 # Create the conda environment from the local environment.yml
 1. `conda env create -f environment.yml`
 2. `conda activate chemprop_spiekermann`
@@ -32,6 +30,7 @@ To set up the environment for predicting with the Spiekermann Model, use the fol
 Important Considerations:
 
 It is crucial to switch to the appropriate environment before running predictions for the respective models to avoid errors and ensure accurate results.
+
 The primary difference in the environments lies in the core Chemprop library version and its dependencies. The Chung model is compatible with an older version of Chemprop, while the Spiekermann model requires a more recent or modified version.
 
 Please refer to the official Chemprop documentation for more information on the library and its versions.
