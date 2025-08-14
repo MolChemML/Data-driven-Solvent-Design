@@ -8,9 +8,9 @@ For predictive tasks involving Chung's Model, a specific version of Chemprop is 
 To create and activate the correct environment for these tasks, please follow these steps:
 
 # Clone the repository
-git clone https://github.com/yunsiechung/chemprop.git
-cd chemprop
-git checkout RxnSolvKSE_ML
+1. `git clone https://github.com/yunsiechung/chemprop.git`
+2. `cd chemprop`
+3. `git checkout RxnSolvKSE_ML`
 
 # Create the conda environmen
 
